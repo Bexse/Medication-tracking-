@@ -8,3 +8,8 @@
 *Yesterday: Browse/research topics that strengthen my ideas and finally selected a topic - myMed
 *Today: system design: will work on the backend and frontend workflow and designing mongoose data model.
 *Block: N/A
+
+## June 20, 2022
+ * Yesterday: working on system design. data models and front-end flow structure
+ *Today: Start working on backend
+ *Block: N/A
