@@ -13,3 +13,8 @@
  * Yesterday: working on system design. data models and front-end flow structure
  *Today: Start working on backend
  *Block: N/A
+ 
+ ## June 21, 2022
+ * Yesterday: finalized the system desing and started working on backend. Developed sample scheme using mongoose and connected the database with mongoDb atlas. 
+ *Today: Continue working on backend. I used nodejs, express and mongoose. finish MVC models.
+ *Block: N/A
