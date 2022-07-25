@@ -29,7 +29,7 @@
 
 ### Admin/physician user
 
-- Create/Read/Delete/Update medications and add patients
+- List/Add medication to specific patient
 
 ### Regular user
 
