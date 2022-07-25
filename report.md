@@ -80,3 +80,9 @@ Block: N/A
 - Yesterday: Integrating backend with some component of front end.
   *Today: Working on front end with the functionalities and CRUD operations.
   *Block: N/A
+  
+  ## June 25, 2022
+
+- Saturday: CRUD Operations and special functionalities completed.
+  *Today: Bug fixes on crud, then learn about testing and deployment.
+  *Block: N/A
