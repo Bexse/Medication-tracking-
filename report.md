@@ -86,3 +86,9 @@ Block: N/A
 - Saturday: CRUD Operations and special functionalities completed.
   *Today: Bug fixes on crud, then learn about testing and deployment.
   *Block: N/A
+  
+  ## June 26, 2022
+
+- Yesterday: started deployment process.
+  *Today:continue with deployment process.
+  *Block: deploying node js in aws => is not going anywhere. 
