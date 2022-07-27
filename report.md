@@ -92,3 +92,8 @@ Block: N/A
 - Yesterday: started deployment process.
   *Today:continue with deployment process.
   *Block: deploying node js in aws => is not going anywhere. 
+  ## June 26, 2022
+
+- Yesterday: started deployment process.
+  *Today:continue with deployment process.
+  *Block: deploying node js in aws. backend is working nort front end. working on it.
