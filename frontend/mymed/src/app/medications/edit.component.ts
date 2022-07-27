@@ -122,7 +122,7 @@ export class EditComponent {
       note: [''],
       dosage: [''],
       frequency: [''],
-      refilRequest: [''], // should be readio button for y/n
+      refilRequest: [''], 
       expiryDate: [''],
       sideEffects: [''],
       contraindication: [''],

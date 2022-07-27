@@ -6,20 +6,22 @@ const userController = require('../controllers/user')
 router.get(
   "", userController.middleware,
    medicationController.getAllMedications
-); //userController.middleware,
+); 
 
 router.post(
   "/add",
   userController.middleware,
 
   medicationController.addMedication
-);//userController.middleware,
-router.put("/:id", medicationController.updateMedication);//userController.middleware,
-router.put("/request/:id", medicationController.reillUpdate);//userController.middleware,
+);
+router.put("/:id", medicationController.updateMedication);
+router.put("/request/:id", medicationController.reillUpdate);
 router.get('/:id', userController.middleware,medicationController.getMedicationById);
-;// userController.middleware,
-router.delete('/:id', medicationController.deleteMedication); //userController.middleware, 
-// to specific patient
+
+router.delete(
+  "/:id",
+  userController.middleware, medicationController.deleteMedication
+); 
 
 router.post(
   "/addto/:id",

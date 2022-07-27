@@ -6,7 +6,9 @@ const app = express();
 const userRouter = require("./routes/user");
 const medicationRouter = require("./routes/medication");
 
+
 const dbURI = `mongodb+srv://${process.env.MONGO_ATLAS_USER}:${process.env.MONGO_ATLAS_PW}@cluster0.rur5l.mongodb.net/${process.env.MONGO_ATLAS_DB}?retryWrites=true&w=majority`;
+
 
 mongoose
   .connect(dbURI, { useUnifiedTopology: true, useNewUrlParser: true })

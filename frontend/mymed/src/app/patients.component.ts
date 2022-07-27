@@ -70,7 +70,6 @@ export class PatientsComponent implements OnInit {
       this.medications = response.data;
     });
   }
-  // i have to send the id of the patient.
   add(id: string) {
     this.route.navigate(['patients/addto/:id']);
   }

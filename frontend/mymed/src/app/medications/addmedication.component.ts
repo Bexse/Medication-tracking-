@@ -6,7 +6,6 @@ import { MedicationService } from '../medication.service';
 @Component({
   selector: 'app-addmedication',
   template: `
-    <p>addmedication works!</p>
 
     <div class="col-md-6 offset-md-3 mt-5">
       <div class="card">

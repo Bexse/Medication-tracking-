@@ -120,7 +120,6 @@ export class ListComponent implements OnInit {
     return index;
   }
   handleDelete(id: string) {
-    // //tricky make sure it deletes only one.
     // this.medService.deleteById(id).subscribe((response)=>{
     //   //  let index = this.findIndex(id);
     //   //  this.lists.splice(index,1);
