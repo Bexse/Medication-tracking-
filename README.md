@@ -1,0 +1,2 @@
+# Medication-tracking-
+•	Designed and implemented a medication tracking web app REST API using Angular framework and deployed it on Amazon Web Services. The application allows patients to check their medication refill status, personalized notification, and consultation. In addition, Physicians can review their patient’s profile and medication refill requests. To encompass these feature, SNS, SQS, DynamoDB, lambda, angular, Material-UI and express technologies used. ![image](https://user-images.githubusercontent.com/89146106/187271515-460bc18c-2c2e-4344-80ae-c43123238dee.png)
