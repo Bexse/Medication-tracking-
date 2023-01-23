@@ -9,4 +9,5 @@ export interface Medication {
   sideEffects: { type: String };
   contraindication: { type: String };
   duration: { type: Number };
+  time;
 }
